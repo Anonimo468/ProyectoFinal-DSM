@@ -4,6 +4,9 @@
 
 **Grupo: G01T y % de trabajo**
 
+- Samuel Isaac Azucena Gómez - AG170932 (%100)
+- Pablo Dagoberto Aguilar Montano - AM230283 (%100)
+- Diana Jasmín García Fabian - GF230979 (%100)
 - Justin Alexander Ramirez Hernadez. RH230152. (%100)
 
 **Icono y nombre de la aplicación**
