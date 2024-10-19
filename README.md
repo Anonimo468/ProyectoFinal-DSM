@@ -17,4 +17,4 @@
 
 [TRELLO](https://trello.com/invite/b/67134b990d65991b747b3921/ATTI6df4ad84ee892d4cee0e4cac20bb7960BE1A1FD8/proyecto-catedra-dsm)
 
-[DOCUMENTO](https://github.com/user-attachments/files/17444283/Manual.pdf)
+[MANUAL DE USUARIO](https://github.com/user-attachments/files/17444294/Manual.2.pdf)
