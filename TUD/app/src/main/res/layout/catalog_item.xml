@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardBackgroundColor="@color/colorPrimary"
+    app:cardElevation="4dp"
+    app:cardCornerRadius="16dp">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:padding="8dp"
+    app:cardElevation="4dp"
+    app:cardCornerRadius="16dp"
+    >
+
+    <ImageView
+        android:id="@+id/catalog_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:background="@drawable/rounded_card"/>
+
+    <TextView
+        android:id="@+id/catalog_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre del Producto"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:paddingTop="8dp"/>
+
+    <TextView
+        android:id="@+id/catalog_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Precio del Producto"
+        android:textSize="14sp"
+        android:paddingTop="4dp"/>
+
+    <TextView
+        android:id="@+id/catalog_category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Categoría del Producto"
+        android:textSize="14sp"
+        android:paddingTop="4dp"/>
+</LinearLayout>
+</androidx.cardview.widget.CardView>
